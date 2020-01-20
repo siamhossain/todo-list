@@ -1,0 +1,12 @@
+.todo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3px;
+    border:  1px solid #cccccc;
+    margin-top: 5px;
+}
+.search{
+    margin: 5px;
+}
